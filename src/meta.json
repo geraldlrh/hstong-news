@@ -1,0 +1,9 @@
+{
+  "@include": "https://www.hstong.com/*",
+  "@run-at": "document-end",
+  "@namespace": "https://github.com/geraldlrh/hstong-news",
+  "@description": "get hstong news",
+  "@author": "gerald",
+  "@updateURL": "https://github.com/geraldlrh/hstong-news/main.user.js",
+  "@downloadURL": "https://github.com/geraldlrh/hstong-news/main.user.js"
+}

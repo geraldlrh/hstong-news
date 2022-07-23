@@ -1,0 +1,15 @@
+dist/
+.temp/
+__download_temp__/
+__download__/
+.rn_temp/
+node_modules/
+.DS_Store
+.history/
+.vscode
+yarn.lock
+yarn-error.log
+#package-lock.json
+
+# shell project
+.submodulefiles
